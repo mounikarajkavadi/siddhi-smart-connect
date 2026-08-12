@@ -174,7 +174,7 @@ function Index() {
             </Reveal>
             <div className="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
               {courses.map((course, i) => {
-                const Icon = courseIcons[i % courseIcons.length];
+                const Icon = courseIcons[i % courseIcons.length] ?? GraduationCap;
                 return (
                   <Reveal key={course.id} delay={i * 80}>
                     <article className="lift flex h-full flex-col rounded-2xl border border-border bg-card p-6 shadow-soft">

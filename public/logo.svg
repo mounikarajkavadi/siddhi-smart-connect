@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="siddhi-E-learn logo">
+  <path d="M6 44V18c7-4 14-4 21 0v26c-7-4-14-4-21 0Z" fill="#12224A"/>
+  <path d="M58 44V18c-7-4-14-4-21 0v26c7-4 14-4 21 0Z" fill="#1F7A6E"/>
+  <circle cx="32" cy="14" r="4.5" fill="#E8973A"/>
+  <path d="M32 19c3 0 5 2 5 5v9h-4v-6h-2v6h-4v-9c0-3 2-5 5-5Z" fill="#E8973A"/>
+  <path d="M44 12h8v8" stroke="#E8973A" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M52 12 40 24" stroke="#E8973A" stroke-width="3" stroke-linecap="round"/>
+</svg>
